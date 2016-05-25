@@ -131,7 +131,7 @@
                                           <option name="myStart" value="12" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="13" />
+                                      <option name="length" value="1" />
                                       <option name="line" value="6" />
                                       <option name="possibleAnswer" value="5" />
                                       <option name="start" value="12" />
@@ -139,7 +139,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
